@@ -133,7 +133,8 @@ If you **master these 20 questions**:
 This collection is built for **.NET interview preparation**:  
 
 - Uses **C# 10+ syntax**  
-- Follows **clean coding practices**  
+- Follows **clean coding practices**
+- Maybe not use the last features from C# (like [] array initialization) due to easier understanding of code.
 - Demonstrates **progressive optimization** (brute force → optimal)  
 
 If you **practice all 20 questions and understand the optimizations**,  
