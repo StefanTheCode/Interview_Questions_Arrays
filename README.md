@@ -66,7 +66,6 @@ ArrayInterviewQuestions/
 Each file is a **self-contained class** that:  
 - Explains the problem in the class summary  
 - Provides **2–3 solutions** (from worst to optimal)  
-- Includes **example usage** in `Main()`  
 
 ---
 
